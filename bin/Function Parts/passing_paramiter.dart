@@ -2,7 +2,6 @@ addThreeNumber(int x,int y,int z){
   print(x+y+z);
 }
 
-
 main(){
   addThreeNumber(10, 20, 15);
   addThreeNumber(15, 20, 15);

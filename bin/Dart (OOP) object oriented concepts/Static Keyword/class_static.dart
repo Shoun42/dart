@@ -2,7 +2,7 @@ import 'Static.dart';
 
 void main(){
 
-  var obj= new MyClass( );   //class ar object ata abok ata conostactor call kora
+   MyClass( );   //class ar object ata abok ata conostactor call kora
 
   MyClass.addTwoNumber(10, 30);
 

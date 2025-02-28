@@ -1,4 +1,4 @@
-class ClassName{
+class ClassName {
 
  ClassName (String msg){ //para miter recive korar jonno variable nibo msg //jodi class ar vitor a oi class ar name a kono functin turiy kori take constructor function bole
 
